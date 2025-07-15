@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem 'github-linguist', '~> 7.29.0'
+gem 'github-linguist', '~> 7.30.0'
